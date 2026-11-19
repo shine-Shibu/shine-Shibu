@@ -1,42 +1,50 @@
-# 👋 Hi, I'm Shine Shibu
 
-### MCA Student | Aspiring Software Developer
+<h1 align="center">Hi 👋, I'm Shine Shibu</h1>
 
-I’m a passionate developer interested in building practical applications, solving problems, and continuously exploring new technologies. I enjoy turning ideas into functional solutions and improving my programming skills through hands-on projects and coding challenges.
+<h3 align="center">
+  MCA Student | Aspiring Software Developer
+</h3>
+
+<p align="center">
+  Passionate about Programming, Problem Solving, and Web Development.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shine-shibu&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 - 🎓 Currently pursuing **Master of Computer Applications (MCA)**.
 - 💻 Interested in **Software Development and Web Technologies**.
 - 🌱 Currently learning and working with **Python & Django**.
 - 🧠 Practicing **Data Structures, Algorithms, and Problem Solving**.
-- 🎯 Focused on developing strong programming fundamentals and building real-world projects.
+- 🎯 Focused on building practical applications and improving my coding skills.
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Programming Languages**
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,php,js" />
+</p>
 
-`C` · `C++` · `Python` · `Java` · `PHP` · `JavaScript`
+### Web Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,django,nodejs" />
+</p>
 
-**Web Technologies**
-
-`HTML5` · `CSS3` · `Bootstrap` · `Django` · `Node.js`
-
-**Database**
-
-`MySQL`
-
-**Tools & Platforms**
-
-`Git` · `GitHub` · `Linux`
+### Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,linux" />
+</p>
 
 ---
 
-## 📌 Current Focus
+## 🚀 Current Focus
 
 - Developing web applications using Python and Django.
 - Strengthening Data Structures and Algorithms.
@@ -47,19 +55,35 @@ I’m a passionate developer interested in building practical applications, solv
 
 ## 🌐 Connect With Me
 
-- **LinkedIn:** [Shine Shibu](https://www.linkedin.com/in/shine-shibu-7409aa340/)
-- **Instagram:** [@s_hine_shibu](https://www.instagram.com/s_hine_shibu/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/shine-shibu-7409aa340/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/s_hine_shibu/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram"/>
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Statistics
 
-\<p align="center">   \<img src="[https://github-readme-stats.vercel.app/api?username=shine-shibu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=shine-shibu\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" height="165" />   \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=shine-shibu&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=shine-shibu\&layout=compact\&theme=tokyonight\&hide_border=true)" height="165" /> \</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shine-shibu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats" />
+</p>
 
-\<p align="center">   \<img src="[https://streak-stats.demolab.com?user=shine-shibu&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=shine-shibu\&theme=tokyonight\&hide_border=true)" /> \</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shine-shibu&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shine-shibu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-\<p align="center">
-&#x20; \<i>"Learning continuously. Building consistently. Improving every day."\</i>
-\</p>
+<p align="center">
+  <i>Learning continuously. Building consistently. Improving every day.</i>
+</p>
+
+<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
